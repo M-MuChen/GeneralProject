@@ -1,8 +1,9 @@
 //
 //  main.m
-//  GeneralProject
+//  起来米汇
 //
-//  Created by Hanxiaojie on 2017/10/9.
+//  Created by Hanxiaojie on 2017/9/10.
+//
 //
 
 #import <UIKit/UIKit.h>
